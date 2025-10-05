@@ -13,9 +13,12 @@ vite : pnpm i
 For start the server, you have 2 choices
 
 1 : pnpm exec vite
+
 <img width="754" height="195" alt="image" src="https://github.com/user-attachments/assets/37c2c59b-ad03-4823-a68a-923d435434b0" />
 
 
 2 : Launch start.bat
+
 <img width="654" height="451" alt="image" src="https://github.com/user-attachments/assets/e7a35169-9259-4084-ad7d-cc47fbae37cc" />
+
 <img width="766" height="369" alt="image" src="https://github.com/user-attachments/assets/22bebaa9-e391-436d-8b14-3660481b81e8" />
