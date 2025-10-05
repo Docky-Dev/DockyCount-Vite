@@ -5,3 +5,6 @@ This project is licensed under the MIT license, but redistribution of the code o
 pnpm : npm install -g pnpm@latest-10
 
 vite : pnpm i
+
+
+<img width="926" height="546" alt="image" src="https://github.com/user-attachments/assets/ff6f681a-1962-4532-b852-bf7744a41e70" />
