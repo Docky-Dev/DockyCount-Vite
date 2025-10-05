@@ -25,6 +25,7 @@ Before getting started, make sure you have the following installed:
   ```bash
   pnpm i
   ```
+![Website preview](https://github.com/user-attachments/assets/ff6f681a-1962-4532-b852-bf7744a41e70)
 
 ---
 
@@ -48,13 +49,13 @@ Just double-click `start.bat`.
 
 ![Starting with start.bat](https://github.com/user-attachments/assets/e7a35169-9259-4084-ad7d-cc47fbae37cc)
 
+![Counter example](https://github.com/user-attachments/assets/22bebaa9-e391-436d-8b14-3660481b81e8)
+
 ---
 
 ## 📷 Preview
 
-![Website preview](https://github.com/user-attachments/assets/ff6f681a-1962-4532-b852-bf7744a41e70)
 
-![Counter example](https://github.com/user-attachments/assets/22bebaa9-e391-436d-8b14-3660481b81e8)
 
 ---
 
