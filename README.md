@@ -3,4 +3,5 @@ This project is licensed under the MIT license, but redistribution of the code o
 **You must have VITE and pnpm :**
 
 pnpm : npm install -g pnpm@latest-10
+
 vite : pnpm i
