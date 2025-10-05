@@ -55,6 +55,9 @@ Just double-click `start.bat`.
 
 ## 📷 Preview
 
+<img width="1365" height="630" alt="image" src="https://github.com/user-attachments/assets/77612a8e-c83f-4849-abf0-516eaaf69bdf" />
+
+<img width="1365" height="628" alt="image" src="https://github.com/user-attachments/assets/18894c55-4484-41bd-b95e-9f14a838890d" />
 
 
 ---
