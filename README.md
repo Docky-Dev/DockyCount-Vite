@@ -60,6 +60,10 @@ Just double-click `start.bat`.
 
 <img width="1365" height="628" alt="image" src="https://github.com/user-attachments/assets/18894c55-4484-41bd-b95e-9f14a838890d" />
 
+## 👤 Author
+
+**Project developed by [GraphStats](https://github.com/GraphStats)**
+**Project transformed into Vite by [JarsDev023](https://github.com/JarsDev023)**
 
 ---
 
