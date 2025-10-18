@@ -63,6 +63,7 @@ Just double-click `start.bat`.
 ## 👤 Author
 
 **Project developed by [GraphStats](https://github.com/GraphStats)**
+
 **Project transformed into Vite by [JarsDev023](https://github.com/JarsDev023)**
 
 ---
